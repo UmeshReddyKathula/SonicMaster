@@ -15,6 +15,7 @@ nav{
 nav ul{
     display: inline-block;
     list-style-type: none;
+    font-family: sans-serif;
 }
 nav ul li{
     display: inline-block;
@@ -65,4 +66,7 @@ p{
 }
 .header{
     background: radial-gradient(#fff,#0000);
+}
+.header .row{
+    margin-top: 70px;
 }
